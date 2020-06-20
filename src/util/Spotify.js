@@ -1,5 +1,5 @@
 const clientId = '043208dce5dc434fb371a8277eab5c77';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://jammingplaylistcreator.surge.sh/';
 
 let accessToken;
 
